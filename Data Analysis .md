@@ -1,0 +1,10 @@
+The following graphs, dashboards, and analyses understand the consumer population for the month of February 2021. The focus is to understand any phenomenon with the current consumer market and decide on marketing or inventory and maintenance plans.
+
+Creating the first dashboard was a focus to analyze any trends that may exist between genders. The first question answered which end station had the highest average for trip duration. This analysis aims to understand the customers who tend to spend the most time on the bike and its relation to the final destination. The graph also breaks down by gender, which is fascinating to note; the data shows the highest trip duration has an end station for Dey Street for males and Grove Street Path for females. A focused analysis was conducted on the average age between genders and the popular start and end stations between genders.
+
+The first dashboard shows the trends between genders and the phenomenon with the data is collected. The most popular start and end station is the same station which is Hamilton Park. The inference made here is that most male consumers tend to stay in the Hamilton Park area. 
+
+The second dashboard has a focus on bike usage and understanding which bikes are a priority for maintenance. A graph was created to focus on the hours used, the highest average duration, each station the bike is docked at, usage by gender, and age. A phenomenon to highlight is bike 45550 has the highest average duration hours. The information collected on the bike dashboard, bike 45550, was used by one female consumer for about 302 hours. This issue is a phenomenon because a possible malfunction may be occurring on the cycle, docking station, or possibly improperly docking the bike by the consumer. By prioritizing the bike maintenance, it will allow time to examine the bike to understand the problem and avoid other complications.
+
+Turning our attention to the two requested City Maps of popular start and end stations, we can notice that the map coincides with the trends we saw earlier. The most popular stations are Hamilton Park and Grove Street. 
+
